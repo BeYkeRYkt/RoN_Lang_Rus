@@ -1,0 +1,11 @@
+[~NAMES-INCLUDED~]//Don't edit or remove this line.
+ammo.Slug=One large, solid slug that can deal devastating damage to a soft target. Allows for accurate fire from a shotgun over much longer distances, but are less potent at penetrating body armor or hard obstacles.
+ammo.Buckshot=Buckshot packs several large pellets that slowly spread out at longer distances. Useful for close to medium range engagements, but quickly falls off beyond that.
+ammo.MidCaliber.FMJ=Rifle-caliber Armor Piercing (AP) rounds reduce the effectiveness of steel or ceramic plates and shoot through soft body armor like kevlar. Operators must be mindful of over-penetration and what is behind your intended target, especially if they are not wearing body armor.
+ammo.MidCaliber.JHP=Jacketed Hollow Point (JHP) expand on impact, causing greater wounds and reducing the risk of over-penetration in civilian environments. Less effective against armored suspects, however.
+ammo.SmallCaliber.FMJ=Pistol-caliber Armor Piercing (AP) rounds will pierce soft body armor like kevlar but have little effect against steel or ceramic plates.
+ammo.SmallCaliber.JHP=Jacketed Hollow Point (JHP) expand on impact, causing greater wounds and reducing the risk of over-penetration in civilian environments. Much less effective against armored suspects, however.
+armor.StabVest=Easy to maneuver in and as light as it gets, the stab vest provides little to no ballistic protection but helps mitigate damage from knife wielding suspects. If you're not going to wear armor, you're going to wear this.
+armor.Kevlar=While not as protective as steel or ceramic plates, this soft body armor allows officers to move quickly and confidently without fully sacrificing protection. A long standing friend of law enforcement.
+armor.Ceramic=Modern and commonplace, Ceramic Plates are lighter than steel and do a better job of spreading the momentum of a bullet to reduce the felt impact. Useful against pistol and most rifle calibers.
+armor.Steel=Though less often seen in police departments today, Steel Plates provide solid protection against most firearms at the cost of being restrictively heavy. Useful against pistol and all rifle calibers.

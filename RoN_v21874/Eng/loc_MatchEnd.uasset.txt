@@ -1,0 +1,4 @@
+[~NAMES-INCLUDED~]//Don't edit or remove this line.
+Scores.Label=Scores
+Timer.Label.NextMap=Next map in:
+Scores.Label.Penalties=Penalties

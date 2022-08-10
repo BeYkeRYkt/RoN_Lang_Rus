@@ -1,0 +1,14 @@
+[~NAMES-INCLUDED~]//Don't edit or remove this line.
+swatCommand.SwatMode=SWAT Mode
+swatCommand.SwatMode.Passive=Passive
+swatCommand.SwatMode.Aggressive=Aggressive
+swatCommand.QueueCommand=Queue Commands
+swatCommand.QueueCommand.Queueing=Queueing
+compass.North.Abbr=N
+compass.South.Abbr=S
+compass.West.Abbr=W
+compass.East.Abbr=E
+compass.East=East
+compass.North=North
+compass.South=South
+compass.West=West
